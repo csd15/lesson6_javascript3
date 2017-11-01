@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3rd, 2017
 
 ### Student Name:  
-(First and Last Name)
+Cellina Danvers
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Build an application where the user can scroll through photos going in either direction.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://csd15.github.io/lesson6_javascript3/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Read directions carefully. The code given is meant for specific blocks.
+2. Order of code is very important in CSS
+3. When complex code is given, it is more effective to copy and paste as long as you double check for errors
